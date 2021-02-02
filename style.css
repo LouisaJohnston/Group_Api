@@ -7,9 +7,9 @@ body {
 }
 
 .class1 {
-    border: 1px solid black;
+    border: 1px solid aquamarine;
     border-radius: 25px;
-    background-color: rgba(000, 000, 000, 0.3);
+    background-color:rgb(64, 214, 164);
     margin: 10px;
 }
 
